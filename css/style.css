@@ -155,6 +155,24 @@ a:focus{
 	text-align: center;
 }
 
+#tf-portfolio .proy-description{
+	position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;  
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
+  background-color: rgba(133, 91, 249, .9);
+  border-radius: 10px;
+}
+
+#tf-portfolio .proy-description:hover{
+  opacity: 1;
+}
+
 .section-title hr{
 	border-color: #60B2E9;
 	width: 60px;
@@ -244,6 +262,10 @@ ul.cat.list-inline li a:hover{
 	padding: 10% 0;
 }
 
+.text-profile{
+	text-align: justify;
+}
+
 #tf-education{
 	background: url(../img/10.jpg);
 	background-size: cover;
@@ -258,9 +280,13 @@ ul.cat.list-inline li a:hover{
 	background-attachment: fixed;
 	padding: 5% 0;
 }
-ul.education li{
-	margin: 10px 0;
+
+#tf-education ul li{
+	display: block;
+	text-align: justify;
+	padding-top: 5px;
 }
+
 #tf-contact{
 	background: url(../img/08.jpg);
 	background-size: cover;
