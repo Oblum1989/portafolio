@@ -26,7 +26,7 @@ h4 {
 	margin-bottom: 20px;
 	font-size: 16px;
 	font-weight: 700;
-	color: rgb(47, 147, 123);
+	color: #60B2E9;
 }
 p{
 	font-size: 13px;
@@ -38,8 +38,17 @@ a {
 }
 a:hover,
 a:focus{
-	color: #2F937B;
+	color: #60B2E9;
 	text-decoration: none;
+}
+
+
+.display-1 {
+    font-size: 5rem;
+}
+
+.display-4 {
+    font-size: 1.8rem;
 }
 
 .clearfix:after {
@@ -114,7 +123,7 @@ a:focus{
 
 #tf-menu.navbar-default .navbar-nav > li > a:hover, 
 #tf-menu.navbar-default .navbar-nav > li > a:focus {
-	color: #2F937B;
+	color: #60B2E9;
 	background-color: transparent;
 }
 
@@ -122,14 +131,14 @@ a:focus{
 	font-family: 'Playball', cursive;
 }
 
-#tf-service{
+#tf-skills{
 	padding: 7% 0; 
 }
 
 .media-left.media-middle i {
 	padding: 20px 30px 20px 0;
 	font-size: 30px;
-	color: rgb(47, 147, 123);
+	color: #60B2E9;
 
 }
 
@@ -137,7 +146,7 @@ a:focus{
 	margin-bottom: 20px;
 	font-size: 16px;
 	font-weight: 700;
-	color: rgb(47, 147, 123);
+	color: #60B2E9;
 }
 
 #tf-portfolio{
@@ -147,7 +156,7 @@ a:focus{
 }
 
 .section-title hr{
-	border-color: rgb(47, 147, 123);
+	border-color: #60B2E9;
 	width: 60px;
 }
 
@@ -159,7 +168,7 @@ a.btn {
 }
 button.btn.btn-primary.my-btn,
 a.btn.btn-primary.my-btn {
-	background: #2F937B;
+	background: #60B2E9;
 	border-color: transparent;
 	border-radius: 0px;
 	border-width: 2px;
@@ -172,7 +181,7 @@ a.btn.btn-primary.my-btn {
 button.btn.btn-primary.my-btn:hover,
 a.btn.btn-primary.my-btn:hover{
 	background: #FFFFFF;
-	color: #2F937B;
+	color: #60B2E9;
 	border-color: transparent;
 }
 button.btn.btn-primary.my-btn.dark:hover,
@@ -195,24 +204,24 @@ a.btn.btn-primary.my-btn2 {
 }
 
 a.btn.btn-primary.my-btn2:hover{
-	background: #2F937B;
+	background: #60B2E9;
 	color: #ffffff;
 	border-color: transparent;
 }
 
 ul.cat.list-inline li a {
-	border: 1px solid #2F937B;
+	border: 1px solid #60B2E9;
 	padding: 5px 15px;
 	font-size: 11px;
 	text-transform: uppercase;
 	font-weight: 600;
 	letter-spacing: 1px;
-	color: #2F937B;
+	color: #60B2E9;
 	transition: all 0.5s;
 }
 
 ul.cat.list-inline li a:hover{
-	background: #2F937B;
+	background: #60B2E9;
 	color: #ffffff;
 }
 
@@ -235,7 +244,7 @@ ul.cat.list-inline li a:hover{
 	padding: 10% 0;
 }
 
-#tf-why-me{
+#tf-education{
 	background: url(../img/10.jpg);
 	background-size: cover;
 	background-position: center;
@@ -244,12 +253,12 @@ ul.cat.list-inline li a:hover{
 	color: #222222;
 }
 
-#tf-why-me .overlay{
+#tf-education .overlay{
 	height: auto;
 	background-attachment: fixed;
 	padding: 5% 0;
 }
-ul.why-me li{
+ul.education li{
 	margin: 10px 0;
 }
 #tf-contact{
@@ -293,7 +302,7 @@ form#contact {
 }
 #tf-contact .form-control:focus,
 #tf-contact .form-control:hover{
-	border-top: 2px solid #2F937B;
+	border-top: 2px solid #60B2E9;
 }
 nav#tf-footer {
 	background: #222222;
