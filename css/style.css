@@ -65,7 +65,7 @@ a:focus{
 
 /* Home Style */
 #tf-home{
-	background: url(../img/01.jpg);
+	background: url(../img/desk.jpeg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -165,12 +165,19 @@ a:focus{
   opacity: 0;
   -webkit-transition: .3s ease;
   transition: .3s ease;
-  background-color: rgba(133, 91, 249, .9);
-  border-radius: 10px;
+  background-color: #60B2E9;
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 #tf-portfolio .proy-description:hover{
   opacity: 1;
+}
+
+.proy-description p{
+  font-size: 20px;
 }
 
 .section-title hr{
