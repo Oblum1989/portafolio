@@ -27,10 +27,6 @@ Este proyecto me permitió:
 - Experimentar con hojas de estilo **CSS** y diseño responsivo.
 - Aplicar scripts básicos de **JavaScript** para mejorar la experiencia del usuario.
 
-## Licencia
-
-Este proyecto está licenciado bajo la **Licencia MIT** - consulta el archivo [LICENSE](./LICENSE) para más detalles.
-
 ## Contacto
 
 **Oscar Blum Carrero**  
