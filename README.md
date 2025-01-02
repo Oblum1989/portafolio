@@ -14,12 +14,26 @@ Este proyecto fue creado para explorar los conceptos básicos de:
 - **CSS:** Estilos visuales y diseño.
 - **JavaScript:** Interactividad básica.
 
-## Capturas de Pantalla
+## Despliegue
 
-> *(Puedes incluir aquí capturas de la interfaz de tu portafolio para ilustrar su diseño y características.)*
+El proyecto está desplegado en **GitHub Pages** y puedes verlo en el siguiente enlace:  
+🔗 [Portafolio](https://oblum1989.github.io/portafolio/)
 
-## Instalación
+## Lecciones Aprendidas
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/Oblum1989/portfolio.git
+Este proyecto me permitió:
+
+- Comprender la estructura y semántica de **HTML**.
+- Experimentar con hojas de estilo **CSS** y diseño responsivo.
+- Aplicar scripts básicos de **JavaScript** para mejorar la experiencia del usuario.
+
+## Licencia
+
+Este proyecto está licenciado bajo la **Licencia MIT** - consulta el archivo [LICENSE](./LICENSE) para más detalles.
+
+## Contacto
+
+**Oscar Blum Carrero**  
+📧 oscar.blum@gmail.com  
+🌐 [LinkedIn](https://linkedin.com/in/oscarblumcarrero)  
+🐙 [GitHub](https://github.com/Oblum1989)
